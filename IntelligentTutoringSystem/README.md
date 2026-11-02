@@ -9,7 +9,7 @@
 ## Files
 
 - `Intelligent_Tutoring_System.py` - the application source file.
-- `its_retained_cases.json` — created beside the source file after the first successful save. It stores newly retained cases; the five sample cases remain in the Python source.
+- `its_retained_cases.json` - created beside the source file after the first successful save. It stores newly retained cases; the five sample cases remain in the Python source.
 
 ## Run in PyCharm
 

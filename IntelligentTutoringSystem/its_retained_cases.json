@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ITS-006",
+    "description": "Struggles with mastering conceptual math problems.",
+    "attributes": {
+      "subject": "math",
+      "error_type": "conceptual",
+      "mastery": 60
+    },
+    "solution": "Start from the retrieved strategy: Review the rule with a worked example and ask the learner to explain each step. Adaptation for this learner: Add a simple explanation and a visual or concrete example. Mastery adjustment: Use a worked example, then let the learner try a similar task. Subject-specific practice: Use numbers or equations from the current math topic."
+  },
+  {
+    "id": "ITS-007",
+    "description": "The student struggles with memorizing important language concepts.",
+    "attributes": {
+      "subject": "english",
+      "error_type": "memory",
+      "mastery": 45
+    },
+    "solution": "Start from the retrieved strategy: Use a short editing checklist and ask the learner to review their own work. Adaptation for this learner: Add flashcards and review the material again after a short delay. Mastery adjustment: Use a worked example, then let the learner try a similar task. Subject-specific practice: Use a short reading or writing example from the current lesson."
+  },
+  {
+    "id": "ITS-008",
+    "description": "Students understands core logic but makes calculation errors.",
+    "attributes": {
+      "subject": "math",
+      "error_type": "calculation",
+      "mastery": 55
+    },
+    "solution": "Start from the retrieved strategy: Model one worked example, then give short calculation practice. Adaptation for this learner: Add several short practice questions and check each step. Mastery adjustment: Use a worked example, then let the learner try a similar task. Subject-specific practice: Use numbers or equations from the current math topic."
+  }
+]

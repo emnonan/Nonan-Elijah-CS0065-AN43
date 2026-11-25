@@ -1,6 +1,6 @@
 # Technical Assessment 5: Sentence Sentiment Analyzer
 
-A Python activity that demonstrates sentiment analysis through two standalone console programs: TextBlob polarity classification and a dictionary-based happy–sad word counter.
+A Python activity that demonstrates sentiment analysis through two standalone console programs: TextBlob polarity classification and a dictionary-based happy-sad word counter.
 
 ## Learning objectives
 
